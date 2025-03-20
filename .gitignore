@@ -1,0 +1,55 @@
+# .NET Core
+bin/
+obj/
+
+# Fichiers de configuration de l'IDE
+.vs/
+.idea/
+.vscode/
+
+# Caches du compilateur
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Fichiers spécifiques à Visual Studio
+.vs2019/
+.vs2017/
+
+# Fichiers temporaires de build
+# si tu utilises la version debug ou release
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ebug-AnyCPU/
+[Dd]ebug-x64/
+[Dd]ebug-x86/
+[Dd]Release/
+[Dd]ReleasePublic/
+[Dd]Release-AnyCPU/
+[Dd]Release-x64/
+[Dd]Release-x86/
+
+# Fichiers binaires d'application
+*.exe
+*.dll
+*.pdb
+*.cache
+*.ilk
+
+# Fichiers générés par NuGet
+*.nupkg
+.nuget/
+
+# Dossiers spécifiques à l'utilisateur
+.idea/
+.vscode/
+
+# Dossiers spécifiques à Visual Studio Code
+.vscode/
+
+# Fichiers spécifiques à JetBrains Rider
+.idea/
+
+# Fichiers de journalisation
+*.log
